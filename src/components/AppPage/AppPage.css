@@ -1,0 +1,77 @@
+.app-sec {
+  height: 790px;
+}
+.app-sec .app-img img {
+  position: absolute;
+  align-items: center;
+  width: 100vh;
+  height: 90vh;
+}
+.app-sec .app-det {
+  padding: 55px;
+  align-items: center;
+  position: relative;
+  margin-left: 670px;
+  margin-top: 10px;
+}
+.app-sec .app-det .app-head {
+  text-shadow: 2px 2px #d4ebfb;
+  font-size: 30px;
+  font-style: normal;
+}
+.app-sec .app-det .app-head h1 {
+  font-weight: 300;
+  text-shadow: 2px 2px #d4ebfb;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 700;
+}
+.app-sec .app-det .pad {
+  padding: 70px;
+  background-color: #6667AB;
+  height: 10px;
+  opacity: 0.3;
+  width: 10px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  position: relative;
+  left: 540px;
+  top: 10px;
+}
+.app-head{
+    margin-top: -2rem;
+}
+.app-sec .app-det .app-low-head h4 {
+  font-weight: 40;
+  font-size: 5;
+  text-align: left;
+  padding: 25px;
+  margin-bottom: 90px;
+}
+.app-sec .app-det .app-info {
+  margin-top: 2rem;
+  margin-bottom: 10px;
+  padding-left: 6rem;
+}
+.app-sec .app-det .app-info .icon {
+  position: absolute;
+  margin-left: -80px;
+  margin-top: 15px;
+}
+.app-sec .app-det .app-info .icon-info {
+  padding: 17px;
+  text-decoration: none;
+}
+.app-sec .app-det .foot .im {
+  margin-top: 3rem;
+  margin-left: 2rem;
+  height: 10vh;
+  width: 30vh;
+}
+
+.icon-info h3 {
+  font-size: 2rem;
+}

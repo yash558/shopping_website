@@ -1,0 +1,61 @@
+.hero{
+    height: 98vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 3rem;
+}
+.hero_center {
+    padding: 3rem;
+    margin-left: 5rem;
+}
+.hero .hero_title h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #000;  
+}
+.hero_right{
+    margin-right: 13rem;
+   margin-top: 3rem;
+}
+.hero_title span{
+    color: #6667AB;
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+
+.hero_desc{
+    width: 100vh;
+    margin-top: 1rem;
+}
+
+.hero_desc p{
+    color: #000;
+    font-size: 1.1rem;
+}
+
+.hero_btn .btn_1{
+    background-color: #6667AB;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 40px;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 20px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+video{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
